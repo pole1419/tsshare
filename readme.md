@@ -1,18 +1,22 @@
 <!-- slide -->
 ## 背景
+
 ## 原理
+
 ## 概念
+
 ## 项目中使用
 <!-- slide -->
 ##背景
+---
 ####编程语言分类:
-#####转换方式: 
+* 转换方式: 
     编译型: c/c++, go
     解释型: javascript，php
-#####类型强弱:
+* 类型强弱:
     强类型:go, java
     弱类型:javascript，php
-#####静态/动态:
+* 静态/动态:
     静态: go, c/c++, java
     动态: javascript，php
 ![](./img/languages.jpg)
