@@ -68,7 +68,7 @@ javascript: 动态、弱类型、解释型
 let b = '1'
 let d = b + 0 // '10'
 
-var a = true
+const a = true
 a == 1 && a == 2 && a == 3 // false
 
 null == 0 // false
